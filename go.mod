@@ -1,4 +1,4 @@
-module github.com/ashX04/gopong
+module github.com/ashX04/cli_pong
 
 go 1.21
 
